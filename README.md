@@ -1,4 +1,4 @@
-//Review of JavaScript .map() statements
+# Review of JavaScript .map() statements
 
 `const numbers = [0, 1, 2, 3, 4]`
 
@@ -12,10 +12,10 @@
 
 ``newNumbers``
 
-// with .map()
+# with .map()
 `numbers.map((num) => {
   return num * 10
 })`
 
-//React
+# with React
 `numbers.map(num => <div>{num}</div>)`
